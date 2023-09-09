@@ -1,0 +1,25 @@
+{
+"data":
+[ 
+{
+        "id": 1,
+        "name": "Fashion"
+ },
+{
+        "id": 2,
+        "name": "Tech"
+ },
+{
+        "id": 3,
+        "name": "Space"
+ },
+{
+        "id": 4,
+        "name": "Science"
+ },
+{
+        "id": 5,
+        "name": "Health"
+ }
+]
+}
